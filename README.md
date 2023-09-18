@@ -49,14 +49,14 @@ Select the TOP SURFACE of the 3D block
 5.	Click again to place the RECTANGLE.
 6.	Click Finish Sketch after completing.
 
-## STEP-8:  Extrude RECTANGLE 
+## STEP-7 :  Extrude RECTANGLE 
 1.	Select Extrude.
 2.	Select the Rectangle sketch.
 3.	Click again to place the value.
 4.	Type in the value of 32mm. 
 5.	Press ENTER to accept the value.
 
-## STEP-9: Create a TRIANGLE 
+## STEP-8 : Create a TRIANGLE 
 1.	Select Sketch > TRIANGLE > CENTER TRIANGLE .
 2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the TRIANGLE.
@@ -64,14 +64,14 @@ Select the TOP SURFACE of the 3D block
 5.	Click again to place the TRIANGLE.
 6.	Click Finish Sketch after completing.
 
-## STEP-10:  Extrude TRIANGLE
+## STEP-9 :  Extrude TRIANGLE
 1.	Select Extrude.
 2.	Select the TRIANGLE sketch.
 3.	Click again to place the value.
 4.	Type in the value of 6mm in both direction option. 
 5.	Press ENTER to accept the value.
 
-## STEP-11: Create a PENTAGON 
+## STEP-10 : Create a PENTAGON 
 1.	Select Sketch > polygon > circumscribed polygon.
 2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the polygon.
@@ -79,14 +79,14 @@ Select the TOP SURFACE of the 3D block
 5.	Click again to place the polygon.
 6.	Click Finish Sketch after completing.
 
-## STEP-12: Extrude PENTAGON
+## STEP-11 : Extrude PENTAGON
 1.	Select Extrude.
 2.	Select the PENTAGON sketch.
 3.	Click again to place the value.
 4.	Type in the value of 10mm. 
 5.	Press ENTER to accept the value.
 
-## STEP-13: Create a CIRCLE 
+## STEP-12 : Create a CIRCLE 
 1.	Select Sketch > CIRCLE > CENTER CIRCLE.
 2.	Now hover over the origin (Pentagan end side) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the CIRCLE.
@@ -94,7 +94,7 @@ Select the TOP SURFACE of the 3D block
 5.	Click again to place the circle.
 6.	Click Finish Sketch after completing.
 
-## STEP-14:  Extrude CIRCLE 
+## STEP-13 :  Extrude CIRCLE 
 1.	Select Extrude.
 2.	Select the pentogan sketch.
 3.	Click again to place the value.
