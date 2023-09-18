@@ -1,20 +1,20 @@
 # EX.No.-2.2 CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date :
 
-## AIM: 
+## AIM : 
 
-To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
+To create a 3D-model from the given isometric drawing using fusion 360 tool. 
 
-## REQUIREMENTS:
+## REQUIREMENTS :
 1. Autodesk fusion 360
 2. Windows 10
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-## STEP-2:  Select the Sketch Plane
+## STEP-1 :  Select the Sketch Plane
  Select the TOP (XY) Plane
 
-## STEP-3: Create a Sketch 
+## STEP-2 : Create a Sketch 
 1.  Select Sketch > Rectangle > Center Rectangle.
 2.  Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.  Click once to begin placing the rectangle.
@@ -28,20 +28,20 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 11. Click again to place the sketch.
 12. Click Finish Sketch after completing.
 
-## STEP-4: Extrude Sketch in XY Plane
-1.	Select Extrude.
-2.	Select the sketch.
-3.	Click again to place the value.
-4.	Type in the value of 8mm. 
-5.	Press ENTER to accept the value.
+## STEP-3 : Extrude Sketch in XY Plane
+1. Select Extrude.
+2. Select the sketch.
+3. Click again to place the value.
+4. Type in the value of 8mm.
+5. Press ENTER to accept the value.
 
-## STEP-5:  Start the sketch command
-   Select Sketch > Create Sketch.
+## STEP-4 :  Start the sketch command
+Select Sketch > Create Sketch.
 
-## STEP-6: Select the Sketch Plane
-	Select the TOP SURFACE of the 3D block 
+## STEP-5 : Select the Sketch Plane
+Select the TOP SURFACE of the 3D block 
   
-## STEP-7: Create a RECTANGLE 
+## STEP-6 : Create a RECTANGLE 
 1.	Select Sketch > RECTANGLE  > CENTER RECTANGLE.
 2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
 3.	Click once to begin placing the RECTANGLE.
@@ -104,7 +104,9 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
-Output:
+## Output:
+
+![2 2](https://github.com/Skanthasishanth/EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/assets/118298456/d2fb6896-9f2e-4cf8-8626-9a0882655216)
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
