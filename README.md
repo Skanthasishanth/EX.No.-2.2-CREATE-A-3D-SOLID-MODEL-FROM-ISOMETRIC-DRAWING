@@ -101,14 +101,14 @@ Select the TOP SURFACE of the 3D block
 4.	Type in the value of 10mm on both side. 
 5.	Press ENTER to accept the value.
 
-## INPUT:
+## INPUT :
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
-## Output:
+## Output :
 
 ![2 2](https://github.com/Skanthasishanth/EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/assets/118298456/d2fb6896-9f2e-4cf8-8626-9a0882655216)
 
-## RESULT: 
+## RESULT : 
 Thus, the 3D model is created from given isometric drawing.
 
 
